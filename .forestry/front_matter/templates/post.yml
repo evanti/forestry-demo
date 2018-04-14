@@ -11,9 +11,6 @@ fields:
   label: Sub Heading
   name: sub_heading
   default: ''
-- type: file
-  name: post_picture
-  label: post picture
 - name: tags
   label: Tags
   type: tag_list
