@@ -11,20 +11,14 @@ fields:
   label: Sub Heading
   name: sub_heading
   default: ''
-- name: date
-  label: Publish Date
-  type: datetime
-  hidden: false
-  default: ''
 - name: tags
   label: Tags
   type: tag_list
   hidden: false
   default: ''
 - type: file
-  name: banner_image
-  label: Banner Image
-  description: Ideal dimensions 2500px by 1200px
+  name: test_image
+  label: test image
 - type: list
   name: related_posts
   label: Related Posts
