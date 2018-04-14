@@ -12,6 +12,8 @@ undefined: Here we'll have some text
 
 This is an example of a draft post. Draft posts aren't included when publishing your site.
 
-This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time.
+This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time
 
-![](/uploads/2018/04/14/MBODJE LIVRET P1.jpg)
+![](https://images.sftcdn.net/images/t_optimized,f_auto/p/ce2ece60-9b32-11e6-95ab-00163ed833e7/260663710/the-test-fun-for-friends-screenshot.jpg)
+
+And here is the end
