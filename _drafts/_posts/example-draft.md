@@ -5,6 +5,8 @@ date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
 tags: []
 related_posts: []
+test_image: "/uploads/2018/02/17/college-building.jpg"
+undefined: Here we'll have some text
 ---
 ## What are draft posts?
 
