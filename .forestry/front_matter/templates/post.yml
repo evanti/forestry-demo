@@ -16,9 +16,6 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-- type: file
-  name: test_image
-  label: test image
 - type: list
   name: related_posts
   label: Related Posts
@@ -32,5 +29,6 @@ fields:
   type: text
   hidden: true
   default: post
-- type: textarea
-  default: Here we'll have some text
+- type: file
+  name: post_picture
+  label: post picture
